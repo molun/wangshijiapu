@@ -1,0 +1,25 @@
+有配偶的记录示例:
+3 王庆禄 gen=3 wife=薛氏
+4 王子文 gen=4 wife=李氏、薛氏
+5 王翼 gen=5 wife=李氏、高氏
+8 王大仓 gen=6 wife=曹氏、薛氏
+9 王英 gen=7 wife=马氏
+13 王应精 gen=11 wife=赵氏
+15 王有万 gen=13 wife=刘氏
+16 王希虎 gen=14 wife=白氏
+17 王中昌 gen=15 wife=戚氏
+24 王成虎 gen=14 wife=李氏
+26 王中亮 gen=15 wife=高氏
+
+含薛氏的记录:
+  3 王庆禄 gen=3 wife=薛氏
+  4 王子文 gen=4 wife=李氏、薛氏
+  8 王大仓 gen=6 wife=曹氏、薛氏
+  505 王作梅 gen=18 wife=薛氏
+  506 王见 gen=19 wife=薛氏
+  518 王珮瑞 gen=23 wife=薛氏
+  599 王淑仁 gen=24 wife=薛氏
+  633 王延年 gen=23 wife=薛氏、徐氏
+  679 王永命 gen=17 wife=薛氏
+  706 王元诏 gen=18 wife=张薛氏
+共 28 条
