@@ -18,15 +18,21 @@
 ```
 jiapu/
 ├── index.html      # 网站主文件（包含全部前端代码）
-├── data.json       # 从 PDF 提取的家谱数据（约3000人）
+├── data.json       # 从 PDF 提取的家谱数据（1998人，29世）
 ├── parse_pdf.py    # PDF 文本提取脚本
 └── README.md       # 本文件
 ```
 
+## 🌐 在线访问
+
+本仓库已部署至 GitHub Pages，可直接访问：
+
+**👉 https://molun.github.io/wangshijiapu**
+
 ## 部署到 GitHub Pages（免费）
 
 1. **创建 GitHub 仓库**
-   - 登录 [GitHub](https://github.com) → New repository → 命名为 `jiapu`
+   - 登录 [GitHub](https://github.com) → New repository → 命名为 `wangshijiapu`
    - 将 `index.html` 和 `data.json` 上传至仓库
 
 2. **启用 GitHub Pages**
@@ -35,7 +41,7 @@ jiapu/
    - 等待 1-2 分钟
 
 3. **访问网站**
-   - 通过 `https://你的用户名.github.io/jiapu` 访问
+   - 通过 `https://你的用户名.github.io/wangshijiapu` 访问
 
 ## 本地运行
 
